@@ -1,0 +1,18 @@
+:root{
+    --unit : 1cm;
+}
+
+body{
+    position:absolute;
+    margin:0;padding:0;
+    background-color: black;
+    color: white;
+}
+
+#btn-start{
+    margin-top:1em;
+    font-size: 200%;
+}
+#input-file{
+    margin-left:2em;
+}
